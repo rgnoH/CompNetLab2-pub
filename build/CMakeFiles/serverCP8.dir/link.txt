@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/serverCP8.dir/src/arp.o CMakeFiles/serverCP8.dir/src/device.o CMakeFiles/serverCP8.dir/src/inc.o CMakeFiles/serverCP8.dir/src/ip.o CMakeFiles/serverCP8.dir/src/packetio.o CMakeFiles/serverCP8.dir/src/socket.o CMakeFiles/serverCP8.dir/src/tcp.o CMakeFiles/serverCP8.dir/check/serverCP8.o  -o serverCP8 -lpcap -lpthread 

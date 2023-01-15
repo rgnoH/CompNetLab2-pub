@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main.dir/src/arp.o CMakeFiles/main.dir/src/device.o CMakeFiles/main.dir/src/inc.o CMakeFiles/main.dir/src/ip.o CMakeFiles/main.dir/src/packetio.o CMakeFiles/main.dir/src/socket.o CMakeFiles/main.dir/src/tcp.o CMakeFiles/main.dir/src/unp.o CMakeFiles/main.dir/check/main.o -o main  -lpcap -lpthread 

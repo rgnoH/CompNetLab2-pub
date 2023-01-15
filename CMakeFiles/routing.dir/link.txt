@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/routing.dir/src/arp.o CMakeFiles/routing.dir/src/device.o CMakeFiles/routing.dir/src/inc.o CMakeFiles/routing.dir/src/ip.o CMakeFiles/routing.dir/src/packetio.o CMakeFiles/routing.dir/src/socket.o CMakeFiles/routing.dir/src/tcp.o CMakeFiles/routing.dir/src/unp.o CMakeFiles/routing.dir/check/routing.o -o routing  -lpcap -lpthread 

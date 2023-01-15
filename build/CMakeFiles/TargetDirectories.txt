@@ -1,0 +1,10 @@
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/main.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/client.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/server.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/routing.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/echo_client.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/echo_server.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/perf_client.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/perf_server.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/edit_cache.dir
+/home/rgnoh/CompNet/lab2/build/CMakeFiles/rebuild_cache.dir

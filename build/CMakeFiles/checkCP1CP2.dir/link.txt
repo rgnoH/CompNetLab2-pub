@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/checkCP1CP2.dir/src/device.o CMakeFiles/checkCP1CP2.dir/src/inc.o CMakeFiles/checkCP1CP2.dir/src/ip.o CMakeFiles/checkCP1CP2.dir/src/packetio.o CMakeFiles/checkCP1CP2.dir/check/checkCP1CP2.o  -o checkCP1CP2 -lpcap -lpthread 

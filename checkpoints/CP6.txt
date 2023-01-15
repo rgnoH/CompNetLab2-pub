@@ -1,0 +1,13 @@
+sudo ./addNS ns1
+sudo ./addNS ns2
+sudo ./addNS ns3
+sudo ./addNS ns4
+sudo ./connectNS ns1 ns2 veth1-2 veth2-1 10.100.1
+sudo ./connectNS ns2 ns3 veth2-3 veth3-2 10.100.2
+sudo ./addVethPair veth2-4 veth4-2
+sudo ./setNS veth2-4 ns2
+sudo ./setNS veth4-2 ns4
+sudo ./execNS ns2 ./giveAddr veth2-4 10.100.2.3/26
+sudo ./execNS ns4 ./giveAddr veth4-2 10.100.2.4/26
+
+
